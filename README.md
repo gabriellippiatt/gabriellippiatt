@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Gabriel Lippiatt 👋
+
+🎓 I'm in my final semester studying a Masters in Electrical and Computer Engineering at the University of Queensland.
+
+🤖 I love to work on robotics & AI projects. My passion lies in hardware, firmware, and software development.
+
+🔭 I’m currently working on optimisation of neural networks for industrial plant applications at HATCH.
+
+📫 How to reach me: gabriel.lippiatt@gmail.com
 
 <!--
 **gabriellippiatt/gabriellippiatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
