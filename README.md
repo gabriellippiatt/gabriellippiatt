@@ -4,7 +4,7 @@
 
 🤖 I love to work on robotics & AI projects. My passion lies in hardware, firmware, and software development.
 
-🔭 I’m currently working on optimisation of neural networks for industrial plant applications at HATCH.
+🔭 I’m currently working in the Digital Team at HATCH in Brisbane, Australia.
 
 📫 How to reach me: gabriel.lippiatt@gmail.com
 
