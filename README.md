@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel Lippiatt 👋
 
-🎓 I'm in my final semester studying a Masters in Electrical and Computer Engineering at the University of Queensland.
+🎓 I have recently graduated with a Masters in Electrical and Computer Engineering at the University of Queensland.
 
 🤖 I love to work on robotics & AI projects. My passion lies in hardware, firmware, and software development.
 
